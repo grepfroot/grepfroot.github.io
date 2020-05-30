@@ -1,0 +1,14 @@
+title: grepfroot
+description: >-
+  Be frootful and multiply.
+
+include:
+  - _pages
+
+markdown: kramdown
+remote_theme: grepfroot/jekyll-theme-memoirs
+plugins:
+  - jekyll-feed
+
+paginate: 6
+paginate_path: /page:num/
